@@ -91,7 +91,7 @@ sr.reveal(".project-img", { interval: 200 });
   }
 
 
-  var messageArr = ["Machine Learner","Data Scientist","Full Stack Developer"];
+  var messageArr = ["Software Developer","Data Scientist"];
 var textPosition = 0;
 var messageIndex = 0;
 var speed = 200;
